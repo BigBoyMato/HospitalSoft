@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Alice Alison",
+    "Login": "AliceLogin",
+    "Password": "AlicePassword",
+    "Appointments": []
+  },
+  {
+    "Name": "Bob Bobson",
+    "Login": "BobLogin",
+    "Password": "BobPassword",
+    "Appointments": []
+  },
+  {
+    "Name": "Claud Claudson",
+    "Login": "ClaudLogin",
+    "Password": "ClaudPassword",
+    "Appointments": []
+  }
+]

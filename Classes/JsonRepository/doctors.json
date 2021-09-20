@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Andrew Andrewson",
+    "Login": "DocAndrewLogin",
+    "Password": "DocAndrewPassword",
+    "Speciality": "Therapist",
+    "Appointments": [],
+    "NameAndSpecialty": "Andrew Andrewson - Therapist"
+  },
+  {
+    "Name": "Ben Benson",
+    "Login": "DocBenLogin",
+    "Password": "DocBenPassword",
+    "Speciality": "Psychiatrist",
+    "Appointments": [],
+    "NameAndSpecialty": "Ben Benson - Psychiatrist"
+  },
+  {
+    "Name": "Chloe Chloeson",
+    "Login": "DocChloeLogin",
+    "Password": "DocChloePassword",
+    "Speciality": "Neurologist",
+    "Appointments": [],
+    "NameAndSpecialty": "Chloe Chloeson - Neurologist"
+  }
+]
