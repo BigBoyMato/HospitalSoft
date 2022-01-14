@@ -1,14 +1,10 @@
 # HospitalSoft
-An application which is a small hospital database manager.
-10.27.2020
 
-- Maxim Kholodilin
-- C# project
+README
 
-SomeHospitalSoft (v.0.0) -- Default settings
-- Newtonsoft.Json.12.0.3 package used
+[![eng](https://img.shields.io/badge/lang-eng-blue.svg)](https://github.com/holodnii/HospitalSoft/blob/main/readme_eng.md)
+[![rus](https://img.shields.io/badge/lang-rus-red.svg)](https://github.com/holodnii/HospitalSoft/blob/main/readme_rus.md)
 
-This is a simple C# application written using "OOP" principles. Programs front-end is written using WPF/Xaml 
-as well as .Json database files. I tried to implement the logic of two-synchronized databases which would connect 
-the appointments of pacients and doctors through the appointments. User authorization and database generator 
-are provided.
+UML
+
+[![eng](https://img.shields.io/badge/lang-eng-blue.svg)](https://github.com/holodnii/HospitalSoft/blob/main/HospitalSoft_uml.svg)
