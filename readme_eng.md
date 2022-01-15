@@ -1,6 +1,6 @@
 HospitalSoft
 =============
-An application which is a small hospital database manager written using OOP principles. I tried to implement synchronized database logic which would connect the appointments of pacients and doctors through the appointments. User authorization and database generator are provided.
+An application which is a small hospital database manager written using OOP principles. Synchronized database logic is able to connect the appointments of pacients and doctors. User authorization as doctor or pacient. Database generator is provided.
 
 **Usage:**
 -------
