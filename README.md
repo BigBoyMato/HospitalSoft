@@ -1,5 +1,4 @@
 # HospitalSoft
-
 README
 
 [![eng](https://img.shields.io/badge/lang-eng-blue.svg)](https://github.com/holodnii/HospitalSoft/blob/main/readme_eng.md)
